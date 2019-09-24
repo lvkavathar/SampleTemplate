@@ -1,11 +1,11 @@
-# Using TensorFlow Securely
+# Using PdxIntel Securely
 
 This document discusses how to safely deal with untrusted programs and input data. Below, we also provide guidelines on how to
 report vulnerabilities in pdxIntel.
 
 
 
-## Vulnerabilities in TensorFlow
+## Vulnerabilities in PdxIntel
 
 
 

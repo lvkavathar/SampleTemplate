@@ -1,0 +1,5 @@
+{
+"predictionSettingsEndPoint":"/pdxapi/predictionsettings",
+"assetHealthValuesEndPoint":"/pdxapi/assetHealthValues",
+"predictionEndPoint":"/pdxapi/postPrediction"
+}

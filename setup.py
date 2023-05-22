@@ -7,7 +7,7 @@ setup(
 
     # Project uses reStructuredText, so ensure that the docutils get
     # installed or upgraded on the target machine
-    install_requires=['docutils>=0.3','requests==2.21.0'],
+    install_requires=['docutils>=0.3','requests==2.31.0'],
 
     package_data={
         # If any package contains *.json or *.txt files, include them:
